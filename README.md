@@ -25,7 +25,7 @@ gcc pinger.c -o pinger -lpcap
 sudo ./pinger
 📸 Capture d’écran
 
-![Pinger Screenshot](images/screenshot.png)
+![Pinger Screenshot](Capture_d’écran_2026-05-12_18-10-25.png)
 
 🌈 Exemple de sortie
 =========================

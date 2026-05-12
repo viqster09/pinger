@@ -1,5 +1,7 @@
 ============================================================
+
 ⚡ PROJET : PingerX — Sniffer Réseau Bas Niveau (C / libpcap)
+
 ============================================================
 
 AUTEUR : Viqster09
@@ -7,7 +9,9 @@ STACK : C | libpcap | Linux
 TYPE : Réseau / Cybersécurité / Systèmes bas niveau
 
 ============================================================
+
 🎯 PRÉSENTATION DU PROJET
+
 ============================================================
 
 PingerX est un outil léger de capture de paquets réseau en temps réel,

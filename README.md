@@ -2,7 +2,7 @@
 ⚡ PROJET : PingerX — Sniffer Réseau Bas Niveau (C / libpcap)
 ============================================================
 
-AUTEUR : [Ton Nom]
+AUTEUR : Viqster09
 STACK : C | libpcap | Linux
 TYPE : Réseau / Cybersécurité / Systèmes bas niveau
 
@@ -75,18 +75,18 @@ Markdown GitHub :
 ============================================================
 
 1. Installer les dépendances :
-""
+```bash
    sudo apt update
    sudo apt install libpcap-dev
-""
+```
 2. Compiler le programme :
-
+```c
    gcc pinger.c -o pinger -lpcap
-
+```
 3. Lancer le programme (root obligatoire) :
-
+```bash
    sudo ./pinger
-
+```
 ============================================================
 📤 EXEMPLE DE SORTIE
 ============================================================

@@ -67,11 +67,6 @@ interne des réseaux informatiques et du modèle TCP/IP.
 📸 CAPTURE D’ÉCRAN
 ============================================================
 
-[ AJOUTER ICI UNE IMAGE ]
-
-Exemple :
-images/screenshot.png
-
 Markdown GitHub :
 ![PingerX](Capture_d’écran_2026-05-12_18-10-25.png)
 
@@ -80,10 +75,10 @@ Markdown GitHub :
 ============================================================
 
 1. Installer les dépendances :
-
+""
    sudo apt update
    sudo apt install libpcap-dev
-
+""
 2. Compiler le programme :
 
    gcc pinger.c -o pinger -lpcap

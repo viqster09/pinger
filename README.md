@@ -73,7 +73,7 @@ Exemple :
 images/screenshot.png
 
 Markdown GitHub :
-![PingerX](images/screenshot.png)
+![PingerX](Capture_d’écran_2026-05-12_18-10-25.png)
 
 ============================================================
 📦 INSTALLATION
